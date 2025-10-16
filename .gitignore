@@ -1,0 +1,4 @@
+*.log
+nodes_module/
+.env
+*.tmp
